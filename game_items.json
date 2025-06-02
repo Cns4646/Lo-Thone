@@ -10,6 +10,14 @@
       "text": "Infinity Sold",
       "status": "open",
       "url": ""
+    },
+    {
+      "name": "PUBG Mobile",
+      "image": "",
+      "gameUID": "PUBG",
+      "text": "Infinity Sold",
+      "status": "close",
+      "url": ""
     }
   ]
 }
