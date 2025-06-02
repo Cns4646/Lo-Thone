@@ -5,7 +5,7 @@
   "games": [
     {
       "name": "Mobile Legend: Bang Bang",
-      "image": "",
+      "image": "https://i.ibb.co/KN2wCpj/images.jpg",
       "gameUID": "MLBB",
       "text": "Infinity Sold",
       "status": "open",
@@ -13,7 +13,7 @@
     },
     {
       "name": "PUBG Mobile",
-      "image": "",
+      "image": "https://i.ibb.co/9Z31SQh/Player-Unknown-s-Battlegrounds-Mobile-webp.png",
       "gameUID": "PUBG",
       "text": "Infinity Sold",
       "status": "close",
