@@ -1,0 +1,14 @@
+{
+  "data": {
+    "gameUID": "MLBB",
+    "ID_Selecter": 2
+  },
+  "orders": [
+    {
+      "image": "",
+      "title": "",
+      "price": 6500,
+      "pType": "MM"
+    }
+  ]
+}
